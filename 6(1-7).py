@@ -148,4 +148,3 @@ handle = Handle('Маркер:')
 print(handle.draw(), s.draw())
 
 
-
